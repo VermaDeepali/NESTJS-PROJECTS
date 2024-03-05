@@ -17,7 +17,7 @@ exports.AppModule = AppModule;
 exports.AppModule = AppModule = __decorate([
     (0, common_1.Module)({
         imports: [],
-        controllers: [app_controller_1.AppController, cats_controller_1.CatController],
+        controllers: [app_controller_1.AppController, cats_controller_1.CatsController],
         providers: [app_service_1.AppService],
     })
 ], AppModule);
