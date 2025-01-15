@@ -1,2 +1,5 @@
 1. What is NestJs ?
 -> A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+
+2. What is Guards?
+-> A guard is a class annotated with the @Injectable() decorator, which implements the CanActivate interface. Guards are executed after all middleware, but before any interceptor or pipe.
